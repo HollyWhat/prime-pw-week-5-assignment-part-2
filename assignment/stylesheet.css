@@ -1,10 +1,18 @@
 
+header{
+    text-align: center;
+  background-color: #1d3557;
+  color: aliceblue;  
+}
 
-h1 {
-    background-color: black;
-    color: aliceblue;
-};
+main{
+    padding: 1em;
+    background-color: #e5e5e5;
+}
 
-p {
-    color: blueviolet;
+body{
+    margin: 0%;
+    background-image: url(../assignment/record.png);
+    background-repeat: repeat;
+
 }
